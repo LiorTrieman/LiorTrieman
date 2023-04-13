@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LiorTrieman
 - 👀 I’m interested in Machine and Deep learning for data analysis, exspecialy for analysing medical data.
-- 🌱 I’m currently learning Data-Science, self-learning, and soon ydata program.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data-Science, as part of ydata program.
+- 💞️ I’m looking to work as a Data-Science in a great company on interesting data:)
 - 📫 How to reach me ...on my email/linedin profile
 
 <!---
